@@ -10,7 +10,6 @@ Welcome to the **EECE490 Hackathon** repository! This hackathon submission explo
 - [Data Description](#data-description)
 - [Notebooks and Their Purpose](#notebooks-and-their-purpose)
 - [Key Findings and Conclusions](#key-findings-and-conclusions)
-- [Future Work and Potential Improvements](#future-work-and-potential-improvements)
 
 ---
 
